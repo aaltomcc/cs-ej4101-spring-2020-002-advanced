@@ -14,13 +14,20 @@ paginate = 3
     description = "Master's student, Aalto School of Science"
     authorimage = "images/me.jpeg"
     copyright = "Monika Rangta"
+    showBuiltWith = true
 
 # Navigation Menu
 [[menu.main]]
     name = "Blog"
-    weight = 100
     identifier = "blog"
+    weight = 101
     url = "/post/"
+
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "about"
+    url = "/"
 
 
 # Social Media Links
