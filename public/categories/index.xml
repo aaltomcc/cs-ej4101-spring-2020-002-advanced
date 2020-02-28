@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Monika Rangta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2020 14:35:14 +0200</lastBuildDate>
     
 	<atom:link href="https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DevOps Learning</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/categories/devops-learning/</link>
+      <pubDate>Wed, 26 Feb 2020 14:35:14 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/categories/devops-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
