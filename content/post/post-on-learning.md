@@ -23,7 +23,9 @@ Things I learned, so far:
 - DevOps practices provide better version control and releases, and it reduces the cost over time.
 - Service backups improve the meantime of recovery, which means it reduces the service downtime.
 
-In this course, I practically implemented the CI/CD on this website using Travis CI and also came to know about the Hugo framework, where we can easily create our websites and blogs. It was fun to complete the project. If you are interested in software development and deployment, I would recommend you to take this course, as it worth knowing how the development and operations team work together to be more productive, as DevOps practices been rapidly integrated in the IT companies.
+In this course, I practically implemented the CI/CD on this website using Travis CI and also came to know about the Hugo framework, where we can easily create our websites and blogs. 
+
+It was fun to complete the project. If you are interested in software development and deployment, I would recommend you to take this course, as it worth knowing how the development and operations team work together to be more productive, as DevOps practices been rapidly integrated in the IT companies.
 
 
 
