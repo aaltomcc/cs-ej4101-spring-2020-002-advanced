@@ -1,7 +1,7 @@
 ---
 title: "Learning from course 002"
 date: 2020-02-26T14:35:14+02:00
-draft: true
+draft: false
 ---
 
 By going through the videos of the course I found the course quite interested. I came to know about the practices, currently every IT organization followed to automate the process for quick delivery.
