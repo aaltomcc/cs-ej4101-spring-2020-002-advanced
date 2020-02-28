@@ -1,0 +1,34 @@
+baseURL = "https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/"
+languageCode = "en-us"
+title = "Monika Rangta"
+theme = "hyde-hyde"
+
+
+enableRobotsTXT = true
+paginate = 3
+
+
+
+[params]
+    author = "Monika Rangta"
+    description = "Project Manager and Full Stack Developer"
+    authorimage = "images/me.jpeg"
+    copyright = "Monika Rangta"
+
+# Navigation Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/post/"
+
+
+# Social Media Links
+[params.social]
+    email = "monikarangta@icloud.com"
+    github = "mrangta"
+    linkedin = "monika-rangta"
+    
+
+
+
