@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Monika Rangta</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/post/</link>
+    <description>Recent content in Posts on Monika Rangta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2020 14:35:14 +0200</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning from course 002</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/post/post-on-learning/</link>
+      <pubDate>Wed, 26 Feb 2020 14:35:14 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/post/post-on-learning/</guid>
+      <description>By going through the videos of the course, I found the course quite interested. I came to know about the DevOps practices; currently, every IT organization is following to automate the process for quick delivery.
+Things I learned, so far:
+ DevOps increases the productivity of a company to deliver its services and applications in a faster way. It helps companies to compete strongly and serve their customers better in the market.</description>
+    </item>
+    
+    <item>
+      <title>About this course 002</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/post/post-on-the-course/</link>
+      <pubDate>Wed, 26 Feb 2020 11:12:29 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-spring-2020-002-advanced/post/post-on-the-course/</guid>
+      <description>I have heard about DevOps a lot but have not taken a more in-depth look in it before. Now, I am taking this course to improve my grades for Mobile Cloud Computing (CS-E4100) course. My CS-E4100 professor suggested me to complete the DevOps course to gain more grades in CS-E4100 course. Well, I liked the DevOps course as I got detailed knowledge about:
+ DevOps is a state of mind, a culture followed by large organizations to deliver their projects effectively.</description>
+    </item>
+    
+  </channel>
+</rss>
